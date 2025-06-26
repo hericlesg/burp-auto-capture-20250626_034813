@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250626_034952", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mail.google.com_20250626_034952/request_001.txt", 
+      "url": "https://mail.google.com:443/sync/u/1/i/s?hl=en&c=30&rt=r&pt=ji", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/mail.google.com_20250626_034952/response_001.txt", 
+      "timestamp": 1750914234344
+    }
+  ], 
+  "host": "mail.google.com", 
+  "total_requests": 1
+}
