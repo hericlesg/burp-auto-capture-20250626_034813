@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250626_034922", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/accounts.google.com_20250626_034922/request_001.txt", 
+      "url": "https://accounts.google.com:443/RotateCookies", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/accounts.google.com_20250626_034922/response_001.txt", 
+      "timestamp": 1750915789865
+    }
+  ], 
+  "host": "accounts.google.com", 
+  "total_requests": 1
+}
